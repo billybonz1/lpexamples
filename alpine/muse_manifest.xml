@@ -1,0 +1,61 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="397963719"/>
+    <file name="index.css" crc="415393308" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="form_check.php" crc="4066397928" ref="index"/>
+    <file name="form_throttle.php" crc="3962765407" ref="index"/>
+    <file name="form-u1060.php" crc="43088201" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ogoom.com_1365765805_pic-28.jpg" crc="42272377" ref="index"/>
+    <file name="без имени-1.png" crc="4262618309" ref="index"/>
+    <file name="devices.jpg" crc="313924936" ref="index"/>
+    <file name="about1.jpg" crc="3972823453" ref="index"/>
+    <file name="about2.jpg" crc="195641389" ref="index"/>
+    <file name="service1.jpg" crc="532291320" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="service2.jpg" crc="4184327110" ref="index"/>
+    <file name="стрелка.png" crc="460210955" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="1.jpg" crc="19997113" ref="index"/>
+    <file name="2.jpg" crc="4125479817" ref="index"/>
+    <file name="3.jpg" crc="235295423" ref="index"/>
+    <file name="4.jpg" crc="4210056644" ref="index"/>
+    <file name="photodune-2255077-hard-career-l.jpg" crc="443748815" ref="index"/>
+    <file name="u644.png" crc="57390058" ref="index"/>
+    <file name="u644-r.png" crc="507585493" ref="index"/>
+    <file name="u649.png" crc="4161057699" ref="index"/>
+    <file name="u649-r.png" crc="372868221" ref="index"/>
+    <file name="u654.png" crc="123155730" ref="index"/>
+    <file name="u654-r.png" crc="3878790880" ref="index"/>
+    <file name="team4-u702-fr.jpg" crc="3792047078" ref="index"/>
+    <file name="team3-u693.png" crc="3763219167" ref="index"/>
+    <file name="team3-u693-r.png" crc="3945801769" ref="index"/>
+    <file name="team2-u700-fr.jpg" crc="4193636875" ref="index"/>
+    <file name="team1-u701-fr.jpg" crc="3866649540" ref="index"/>
+    <file name="photodune-358023.jpg" crc="4294885661" ref="index"/>
+    <file name="1389925933_like-u935.png" crc="228207252" ref="index"/>
+    <file name="1389926117_account and control.png" crc="3798136471" ref="index"/>
+    <file name="1389926392_cafe_coffee-u955.png" crc="4222243186" ref="index"/>
+    <file name="1389926454_rocket-u962.png" crc="217395607" ref="index"/>
+    <file name="feedback1.jpg" crc="3859847444" ref="index"/>
+    <file name="feedback2.jpg" crc="530184710" ref="index"/>
+    <file name="u1093-17.png" crc="4107522790" ref="index"/>
+    <file name="u1093-17-r.png" crc="3886183785" ref="index"/>
+    <file name="u1093-17-m.png" crc="3886183785" ref="index"/>
+    <file name="u1093-17-fs.png" crc="164995614" ref="index"/>
+  </folder>
+  <file name="index.html" crc="270996422" mt="1390842153934" redirect="true"/>
+</manifest>

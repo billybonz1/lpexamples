@@ -1,0 +1,40 @@
+<manifest alg="2" build="375" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1410889352911">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="index.css" crc="3826104180" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index"/>
+    <file name="museutils.js" crc="135030331" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4136176637" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3919229835" ref="index"/>
+    <file name="jquery.watch.js" crc="377079819" ref="index"/>
+    <file name="webpro.js" crc="221070874" ref="index"/>
+    <file name="form_check.php" crc="4099280525" ref="index"/>
+    <file name="form_throttle.php" crc="354368968" ref="index"/>
+    <file name="form_process.php" crc="3835819429" ref="index"/>
+    <file name="form-u214.php" crc="396165418" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="brand.png" crc="4218251130" ref="index"/>
+    <file name="без-имени-1.jpg" crc="3884672214" ref="index"/>
+    <file name="buttons.jpg" crc="220459927" ref="index"/>
+    <file name="arrow.png" crc="4146294400" ref="index"/>
+    <file name="col 1.png" crc="4136907828" ref="index"/>
+    <file name="col 2.png" crc="77886352" ref="index"/>
+    <file name="col 3.png" crc="3990191568" ref="index"/>
+    <file name="col 4.png" crc="4124717490" ref="index"/>
+    <file name="col 5.png" crc="136494549" ref="index"/>
+    <file name="col 6.png" crc="3995076705" ref="index"/>
+    <file name="col 7.png" crc="4103883901" ref="index"/>
+    <file name="ava-1.jpg" crc="4015722524" ref="index"/>
+    <file name="ava-3.jpg" crc="489657946" ref="index"/>
+    <file name="ava-2.jpg" crc="3882037484" ref="index"/>
+    <file name="u229-17.png" crc="4000169091" ref="index"/>
+    <file name="u229-17-r.png" crc="4000169091" ref="index"/>
+    <file name="u229-17-m.png" crc="4000169091" ref="index"/>
+    <file name="u229-17-fs.png" crc="4000169091" ref="index"/>
+    <file name="col 2.jpg" crc="463972112" ref="index"/>
+  </folder>
+  <file name="index.html" crc="105327558" mt="1410889352680" redirect="true"/>
+</manifest>

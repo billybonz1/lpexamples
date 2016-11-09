@@ -1,0 +1,48 @@
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406985974255">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="index.css" crc="4104800618" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index"/>
+    <file name="museutils.js" crc="353204447" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="323834883" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4083300337" ref="index"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="317917375" ref="index"/>
+    <file name="form_check.php" crc="4345382" ref="index"/>
+    <file name="form_throttle.php" crc="81770323" ref="index"/>
+    <file name="form-u186.php" crc="3830515407" ref="index"/>
+    <file name="musewpslideshow.js" crc="177288662" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="524248676" ref="index"/>
+    <file name="touchswipe.js" crc="367691663" ref="index"/>
+    <file name="form-u145.php" crc="4137084593" ref="index"/>
+    <file name="form-u294.php" crc="3771293339" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="foto.jpg" crc="4287926099" ref="index"/>
+    <file name="ehose.png" crc="476078894" ref="index"/>
+    <file name="u205-grad.png" crc="3789124866" ref="index"/>
+    <file name="u205-r-grad.png" crc="360087202" ref="index"/>
+    <file name="hose3-u185-fr.jpg" crc="3799777617" ref="index"/>
+    <file name="u192-17.png" crc="19330905" ref="index"/>
+    <file name="u192-17-r.png" crc="19330905" ref="index"/>
+    <file name="u192-17-m.png" crc="19330905" ref="index"/>
+    <file name="u192-17-fs.png" crc="496543063" ref="index"/>
+    <file name="u107-grad.png" crc="3808241286" ref="index"/>
+    <file name="u107-r-grad.png" crc="4047082179" ref="index"/>
+    <file name="u161-17.png" crc="19330905" ref="index"/>
+    <file name="u161-17-r.png" crc="19330905" ref="index"/>
+    <file name="u161-17-m.png" crc="19330905" ref="index"/>
+    <file name="u161-17-fs.png" crc="496543063" ref="index"/>
+    <file name="картинка.jpg" crc="310381186" ref="index"/>
+    <file name="hose31001x621.jpg" crc="311399380" ref="index"/>
+    <file name="u298-17.png" crc="19330905" ref="index"/>
+    <file name="u298-17-r.png" crc="19330905" ref="index"/>
+    <file name="u298-17-m.png" crc="19330905" ref="index"/>
+    <file name="u298-17-fs.png" crc="496543063" ref="index"/>
+    <file name="foto2.jpg" crc="3828551374" ref="index"/>
+  </folder>
+  <file name="index.html" crc="460939456" mt="1406985974070" redirect="true"/>
+</manifest>
